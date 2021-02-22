@@ -1,4 +1,4 @@
-package uenderley.com;
+package uenderley.com.model;
 
 import javax.persistence.*;
 

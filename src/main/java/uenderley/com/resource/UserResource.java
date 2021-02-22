@@ -1,4 +1,4 @@
-package uenderley.com;
+package uenderley.com.resource;
 
 import java.sql.*;
 import java.util.List;
@@ -13,6 +13,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import io.agroal.api.*;
 import io.quarkus.agroal.*;
+import uenderley.com.model.User;
 
 
 @Path("/user")
